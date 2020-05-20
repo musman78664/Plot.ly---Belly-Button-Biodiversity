@@ -11,4 +11,4 @@ An interactive dashboard that was built to explore the Belly Button Biodiversity
 
 ## Deployment
 
-GitHub Link:  
+GitHub Link:  https://musman78664.github.io/Interactive-Visualizations-Dashboard
